@@ -19,12 +19,16 @@
 
 ** Membuat input terlebih dahulu untuk dipanggil bilangan pertama atau (a),dan gambar ada dibawah :
 
+<img width="958" alt="bilangan 1" src="https://user-images.githubusercontent.com/44864015/52699480-6c548380-2fa8-11e9-8c77-4761761da8f7.PNG">
 
 ** Membuat input terlebih dahulu untuk dipanggil bilangan kedua atau (b), gambar ada dibawah :
+
+<img width="445" alt="bilangan 2" src="https://user-images.githubusercontent.com/44864015/52699481-6ced1a00-2fa8-11e9-93ac-79d7687f4aed.PNG">
 
 
 ** Membuat input terlebih dahulu untuk dipanggil bilangan kedua atau (c), gambar ada dibawah :
 
+<img width="731" alt="bilangan 3" src="https://user-images.githubusercontent.com/44864015/52699482-6ced1a00-2fa8-11e9-9120-c9f3134576df.PNG">
 
 Setelah sudah dibuat dan kita akan mengjalankan perintah-perintah yang akan dipanggil, seperti ini codingannya :
 
